@@ -10,12 +10,12 @@ CREATE TABLE tabla1
 )
 
 INSERT INTO tabla1 (columna1, columna2, columna3) 
-VALUES (Hola, Adios, 10),
-("Hola", "Adios", 10),
-("Hola", "Adios", 10),
-("Hola", "Adios", 10),
-("Hola", "Adios", 10),
-("Hola", "Adios", 10),
-("Hola", "Adios", 10),
-("Hola", "Adios", 10),
-("Hola", "Adios", 10);
+VALUES ('Hola', 'Adios', 10),
+('Hola', 'Adios', 10),
+('Hola', 'Adios', 10),
+('Hola', 'Adios', 10),
+('Hola', 'Adios', 10),
+('Hola', 'Adios', 10),
+('Hola', 'Adios', 10),
+('Hola', 'Adios', 10),
+('Hola', 'Adios', 10);
